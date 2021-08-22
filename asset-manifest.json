@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Language-Cards/static/css/main.51577bb3.chunk.css",
+    "main.js": "/Language-Cards/static/js/main.6464d225.chunk.js",
+    "main.js.map": "/Language-Cards/static/js/main.6464d225.chunk.js.map",
+    "runtime-main.js": "/Language-Cards/static/js/runtime-main.00a0c374.js",
+    "runtime-main.js.map": "/Language-Cards/static/js/runtime-main.00a0c374.js.map",
+    "static/js/2.dfa6778b.chunk.js": "/Language-Cards/static/js/2.dfa6778b.chunk.js",
+    "static/js/2.dfa6778b.chunk.js.map": "/Language-Cards/static/js/2.dfa6778b.chunk.js.map",
+    "static/js/3.35d08986.chunk.js": "/Language-Cards/static/js/3.35d08986.chunk.js",
+    "static/js/3.35d08986.chunk.js.map": "/Language-Cards/static/js/3.35d08986.chunk.js.map",
+    "index.html": "/Language-Cards/index.html",
+    "static/css/main.51577bb3.chunk.css.map": "/Language-Cards/static/css/main.51577bb3.chunk.css.map",
+    "static/js/2.dfa6778b.chunk.js.LICENSE.txt": "/Language-Cards/static/js/2.dfa6778b.chunk.js.LICENSE.txt",
+    "static/media/cpp.c0a0d2fd.png": "/Language-Cards/static/media/cpp.c0a0d2fd.png",
+    "static/media/css.616d011c.png": "/Language-Cards/static/media/css.616d011c.png",
+    "static/media/go.a0b3b49a.png": "/Language-Cards/static/media/go.a0b3b49a.png",
+    "static/media/java.a507ef79.png": "/Language-Cards/static/media/java.a507ef79.png",
+    "static/media/javascript.7f875163.png": "/Language-Cards/static/media/javascript.7f875163.png",
+    "static/media/php.c767c571.png": "/Language-Cards/static/media/php.c767c571.png",
+    "static/media/python.40f1d1b1.png": "/Language-Cards/static/media/python.40f1d1b1.png",
+    "static/media/react.7b78f5c3.svg": "/Language-Cards/static/media/react.7b78f5c3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00a0c374.js",
+    "static/js/2.dfa6778b.chunk.js",
+    "static/css/main.51577bb3.chunk.css",
+    "static/js/main.6464d225.chunk.js"
+  ]
+}
